@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="amarpreet singh" verbose="8">
+<test name ="jaspreet singh">
+<classes>
+<class name="com.cnm.Testing">
+  <methods>
+  
+  <include name="compareinteger" />
+     
+  <include name="comparestring" />
+  <exclude name="comparedouble" />
+  
+  </methods>
+</class>
+<class name="com.asd.Qwerty1">
+  <methods>
+  
+  <include name="compareinteger" />
+     
+  <include name="comparestring" />
+  <exclude name="comparedouble" />
+
+</methods>
+</class>
+</classes>
+</test>
+</suite>
+

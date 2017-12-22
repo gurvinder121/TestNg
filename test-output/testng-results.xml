@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="amarpreet singh" duration-ms="46" started-at="2017-12-20T19:43:56Z" finished-at="2017-12-20T19:43:57Z">
+    <groups>
+    </groups>
+    <test name="jaspreet singh" duration-ms="46" started-at="2017-12-20T19:43:56Z" finished-at="2017-12-20T19:43:57Z">
+      <class name="com.cnm.Testing">
+        <test-method status="PASS" signature="compareinteger()[pri:0, instance:com.cnm.Testing@157f54e]" name="compareinteger" duration-ms="31" started-at="2017-12-20T19:43:57Z" finished-at="2017-12-20T19:43:57Z">
+        </test-method> <!-- compareinteger -->
+        <test-method status="PASS" signature="comparestring()[pri:0, instance:com.cnm.Testing@157f54e]" name="comparestring" duration-ms="0" started-at="2017-12-20T19:43:57Z" finished-at="2017-12-20T19:43:57Z">
+        </test-method> <!-- comparestring -->
+      </class> <!-- com.cnm.Testing -->
+      <class name="com.asd.Qwerty1">
+        <test-method status="PASS" signature="compareinteger()[pri:0, instance:com.asd.Qwerty1@1975490]" name="compareinteger" duration-ms="0" started-at="2017-12-20T19:43:57Z" finished-at="2017-12-20T19:43:57Z">
+        </test-method> <!-- compareinteger -->
+        <test-method status="PASS" signature="comparestring()[pri:0, instance:com.asd.Qwerty1@1975490]" name="comparestring" duration-ms="0" started-at="2017-12-20T19:43:57Z" finished-at="2017-12-20T19:43:57Z">
+        </test-method> <!-- comparestring -->
+      </class> <!-- com.asd.Qwerty1 -->
+    </test> <!-- jaspreet singh -->
+  </suite> <!-- amarpreet singh -->
+</testng-results>
